@@ -3,7 +3,7 @@
 ## **Introduction**
 Efficient and accurate claim preparation is the cornerstone of any successful chiropractic practice. With the complexities of insurance policies and ever-changing regulations, chiropractors often face challenges in managing their billing processes. This repository provides a step-by-step guide to help chiropractors streamline their claim preparation and minimize errors.
 
-For professional support, **[chiropractic medical billing services]** provided by iMagnum Healthcare Solutions ensure your practice thrives while reducing administrative burdens.
+For professional support, **chiropractic medical billing services** provided by iMagnum Healthcare Solutions ensure your practice thrives while reducing administrative burdens.
 
 ---
 
